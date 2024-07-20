@@ -23,7 +23,7 @@ The dataset used is from Kermany [Kermany D., et al.](https://data.mendeley.com/
 
 The training data consists of 1,346 normal images and 3,875 pneumonia images, which are further split into 80% for model training and 20% for model validation. The test data includes 234 normal images and 410 pneumonia images used for testing the trained model. The validation data comprises 10 normal images and 10 pneumonia images for final validation of the model integrated into Streamlit.
 
-### Screenshots (Results & Web Interface)
+### Screenshots (Results & [Web Interface](https://prediksi-pneumonia.streamlit.app/))
 - Web Interface - Home Page
 
 ![Home Page](https://github.com/user-attachments/assets/a68b2838-de31-4220-8eb9-530232ec4fe9)
