@@ -1,4 +1,4 @@
-## Prediction of Pneumonia Based in Chest X-Ray Images with Streamit-Based Website
+## Prediction of Pneumonia Based in Chest X-Ray Images with Streamlit-Based Website
 
 ### Project Description 
 Health issues are a global concern due to their direct impact on humans, such as lung disorders that can lead to death if ignored. Lung disorders like shortness of breath, chest pain, and productive cough often indicate Pneumonia, a lung infection caused by viruses, bacteria, or fungi.
@@ -25,15 +25,25 @@ The training data consists of 1,346 normal images and 3,875 pneumonia images, wh
 
 ### Screenshots (Results & Web Interface)
 - Web Interface - Home Page
+
 ![Home Page](https://github.com/user-attachments/assets/a68b2838-de31-4220-8eb9-530232ec4fe9)
+
 - Web Interface - Classification Results via Web Interface
+
 ![Prediction-Result](https://github.com/user-attachments/assets/3be5b8db-a9a5-4c57-8a27-2f7204e19533)
+
 - Classifier Evaluation - Loss and Accuration
+
 ![Loss and Accuration](https://github.com/user-attachments/assets/061da0c4-899e-42bd-a4e4-a8a1157cf748)
+
 - Classifier Evaluation - Evaluation Model
+
 ![Evaluation model](https://github.com/user-attachments/assets/ecb1ba1c-a105-4075-af8c-84ea6a62293b)
+
 - Classifier Evaluation - Confusion Matrix
+
 ![Confusion Matrix](https://github.com/user-attachments/assets/caf6f4f7-44f1-4991-b105-59c96f0b2049)
+
 
 ### About
 The Product was developed by Moh. Fariq Firdaus Karim
