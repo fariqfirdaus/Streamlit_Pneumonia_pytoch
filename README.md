@@ -44,6 +44,12 @@ The training data consists of 1,346 normal images and 3,875 pneumonia images, wh
 
 ![Confusion Matrix](https://github.com/user-attachments/assets/caf6f4f7-44f1-4991-b105-59c96f0b2049)
 
+### Computational Specifications
+Project done using Google Colab with follwing specifications:
+- Runtime type Python 3
+- Hadware accelerator T4 GPU
+- System RAM 12.7 GB 
+- Disk 107.7 GB
 
 ### About
 The Product was developed by Moh. Fariq Firdaus Karim
