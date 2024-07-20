@@ -1,10 +1,10 @@
-# Prediction of Pneumonia Based in Chest X-Ray Images with Streamit-Based Website
+## Prediction of Pneumonia Based in Chest X-Ray Images with Streamit-Based Website
 
-## Project Description 
+### Project Description 
 
-## Model Deep Learning
+### Model Deep Learning
 
-## Working and Usecase
+### Working and Usecase
 
-## About
+### About
 The Product was developed by Moh. Fariq Firdaus Karim
