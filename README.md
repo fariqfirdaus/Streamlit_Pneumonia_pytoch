@@ -21,7 +21,7 @@ The modifications include adding batch normalization layers, ReLU activation, dr
 ### Dataset
 The dataset used is from Kermany [Kermany D., et al.](https://data.mendeley.com/datasets/rscbjbr9sj/3), consisting of Chest X-Ray images. This dataset is divided into three parts (train, test, validation) and contains 5,885 X-Ray images (JPEG) with two categories in each part (Pneumonia and Normal). The chest X-ray images (anterior and posterior) were selected from pediatric patients aged one to five years old from the Women and Children’s Medical Center, Guangzhou.
 
-The training data consists of 1,346 normal images and 3,875 pneumonia images, which are further split into 80% for model training and 20% for model validation. The test data includes 234 normal images and 410 pneumonia images used for testing the trained model. The validation data comprises 10 normal images and 10 pneumonia images for final validation of the model integrated into Streamlit.
+The training data consists of 1,346 normal images and 3,875 pneumonia images, which are further split into 80% for model training and 20% for model validation. The test data includes 234 normal images and 410 pneumonia images used for testing the trained model. The [validation data](https://github.com/fariqfirdaus/Streamlit_Pneumonia_pytoch/tree/main/val) comprises 10 normal images and 10 pneumonia images for final validation of the model integrated into Streamlit.
 
 ### Screenshots (Results & [Web Interface](https://prediksi-pneumonia.streamlit.app/))
 - Web Interface - Home Page
