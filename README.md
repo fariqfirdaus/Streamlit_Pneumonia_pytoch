@@ -17,13 +17,15 @@ The modifications include adding batch normalization layers, ReLU activation, dr
 ![Detail ResNet50 drawio (1)](https://github.com/user-attachments/assets/519172a1-28e7-4304-80fc-3380657f0ee9)
 
 ### Dataset
-The dataset used is from Kermany D., et al., [Kermany D., et al.](https://data.mendeley.com/datasets/rscbjbr9sj/3) consisting of Chest X-Ray images. This dataset is divided into three parts (train, test, validation) and contains 5,885 X-Ray images (JPEG) with two categories in each part (Pneumonia and Normal). The chest X-ray images (anterior and posterior) were selected from pediatric patients aged one to five years old from the Women and Children’s Medical Center, Guangzhou.
+The dataset used is from Kermany [Kermany D., et al.](https://data.mendeley.com/datasets/rscbjbr9sj/3), consisting of Chest X-Ray images. This dataset is divided into three parts (train, test, validation) and contains 5,885 X-Ray images (JPEG) with two categories in each part (Pneumonia and Normal). The chest X-ray images (anterior and posterior) were selected from pediatric patients aged one to five years old from the Women and Children’s Medical Center, Guangzhou.
 
 The training data consists of 1,346 normal images and 3,875 pneumonia images, which are further split into 80% for model training and 20% for model validation. The test data includes 234 normal images and 410 pneumonia images used for testing the trained model. The validation data comprises 10 normal images and 10 pneumonia images for final validation of the model integrated into Streamlit.
 
 ### Screenshots (Results & Web Interface)
 - Web Interface - Home Page
+![Home Page](https://github.com/user-attachments/assets/a68b2838-de31-4220-8eb9-530232ec4fe9)
 - Web Interface - Classification Results via Web Interface
+![Prediction-Result](https://github.com/user-attachments/assets/3be5b8db-a9a5-4c57-8a27-2f7204e19533)
 - Classifier Evaluation - Loss and Accuration
 ![Loss and Accuration](https://github.com/user-attachments/assets/061da0c4-899e-42bd-a4e4-a8a1157cf748)
 - Classifier Evaluation - Evaluation Model
