@@ -13,7 +13,9 @@ To assist doctors in diagnosing Pneumonia, a prediction tool based on chest X-ra
 The deep learning model used is a convolutional neural network (CNN), specifically a modified ResNet50. These modifications were made to improve the accuracy and balance other evaluation metrics such as precision, recall, and F1-score.
 
 The modifications include adding batch normalization layers, ReLU activation, dropout, and fully connected layers at the end of the architecture. The dropout rate used is 0.5. Additionally, the model will be trained using parameters with a batch size of 128, 23 epochs, a learning rate of 0.0001, and a weight decay of 0.0001.
+
 ![Modifikasi ResNet50 drawio](https://github.com/user-attachments/assets/0810abcb-7a15-42ff-9e8f-e597c8cd11a8)
+
 ![Detail ResNet50 drawio (1)](https://github.com/user-attachments/assets/519172a1-28e7-4304-80fc-3380657f0ee9)
 
 ### Dataset
